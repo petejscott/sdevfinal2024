@@ -14,7 +14,7 @@ global ebutlabel
 global dbutlabel
 global rbutlabel
 
-def encrypt():
+def encrypt2():
     global ebutlabel
     word=ebox.get()
     data=list(word)
